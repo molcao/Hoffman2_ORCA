@@ -1,0 +1,16 @@
+#add the following to your ~/.bashrc replacing [initial] and [username] appropriately
+
+module load python/3.9.6
+module load gcc
+module load openmpi/4.1.1
+
+
+alias qs="qstat -u [username]"
+alias osubS="/u/home/[initial]/[username]/.local/bin/osubS.sh"
+alias osub="/u/home/[initial]/[username]/.local/bin/osub.sh"
+alias osubL="/u/home/[initial]/[username]/.local/bin/osubL.sh"
+alias osubXL="/u/home/[initial]/[username]/.local/bin/osubXL.sh"
+alias osubXXL="/u/home/[initial]/[username]/.local/bin/osubXXL.sh"
+alias osubL_all="/u/home/[initial]/[username]/.local/bin/osubL_all.sh"
+alias dus="du -h /u/scratch/[initial]/[username]"
+alias duh="du -h ~/"
