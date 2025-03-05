@@ -33,7 +33,7 @@ In each Orca (Orca v6.0.0) job, you should have the following two commands:<br/>
 
 Where N is the number of processors and X is the amount of memory allotted to each processor in MB. It should match the Orca submission command that you intend to submit. Nprocs and maxcore settings in the your orca submission script should match the nprocs and maxcore settings from the command. 
 
-Recommended nprocs and maxcore settings
+## Recommended nprocs and maxcore settings:
 > [!NOTE]
 > Nodes available as of 231207<br/>
 > Nodes avail is the absolute max possible<br/>
