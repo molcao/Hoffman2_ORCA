@@ -1,5 +1,5 @@
 ###########################################
-### THIS SCRIPT WAS WRITTEN BY NATOOH   ###               
+### THIS SCRIPT WAS WRITTEN BY NATOOOH  ###               
 ###      edited by molcao 250304        ###
 ###########################################
 #!/bin/bash
