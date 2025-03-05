@@ -13,6 +13,7 @@
 > [username]@dtn.hoffman2.idre.ucla.edu
 
 ## Installation:<br/>
+-edit each .sh file and bash.txt with a text editor replacing [initial] and [username] with your information.<br/>
 -Copy (FTP Software) the contents of bash.txt into your ~/.bashrc<br/>
 -Copy files from bin to ~/.local/bin/<br/>
 -While logged in via terminal, run shell commands IN ORDER:<br/>
