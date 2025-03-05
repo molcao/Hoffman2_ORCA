@@ -8,7 +8,9 @@
 -Run command in terminal:<br/>
 >	$ ssh [username]@hoffman2.idre.ucla.edu<br/>
 
-For file transfers, use host [username]@dtn.hoffman2.idre.ucla.edu
+## File transfers:
+-Do not run on login node. Use the following host.
+> [username]@dtn.hoffman2.idre.ucla.edu
 
 ## Installation:<br/>
 -Copy (FTP Software) the contents of bash.txt into your ~/.bashrc<br/>
