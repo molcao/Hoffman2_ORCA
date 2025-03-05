@@ -37,6 +37,7 @@ Where N is the number of processors and X is the amount of memory allotted to ea
 
 ## Recommended nprocs and maxcore settings:
 > [!NOTE]
+> Remember: The fewer nodes available, the longer it will take to queue your job. <br/>
 > Nodes available as of 231207<br/>
 > Nodes avail is the absolute max possible<br/>
 > Parts of the scripts make the real number smaller<br/>
